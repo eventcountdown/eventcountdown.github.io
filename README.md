@@ -52,6 +52,7 @@ Beautiful animated flip clock countdown timer for your special events. Create cu
 - Glassmorphism modal with backdrop blur
 
 ## 📸 Screenshots
+[![Screen short](screenshot.jpg)](https://github.com/eventcountdown/eventcountdown.github.io/)
 
 ### Desktop View
 Multiple countdown cards displayed in a responsive grid with flip clock animations and progress bars.
