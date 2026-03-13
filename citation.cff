@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kolesnikov"
+  given-names: "Valentyn"
+  orcid: "https://orcid.org/0009-0003-9608-3364"
+title: "Event Countdown"
+version: 1.0
+doi: 10.5281/zenodo.19000097
+date-released: 2026-03-13
+url: "https://github.com/eventcountdown/eventcountdown.github.io"
+license: MIT
